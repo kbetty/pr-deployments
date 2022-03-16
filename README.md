@@ -1,4 +1,4 @@
-# Pull request deployments with GitHub Actions and GitHub Deployments
+# Pull request deployments with GitHub Actions and GitHub Deployment
 
 The workflow in this repository shows how a `/deploy` comment on a pull request can deploy the source code to an environment. In addition, the user is kept up-to-date on the deployment status using the GitHub Deployments construct.
 
